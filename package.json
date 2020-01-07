@@ -1,0 +1,22 @@
+{
+  "name": "portfolio_advanced_css",
+  "version": "1.0.0",
+  "description": "my portfolio site with advanced css",
+  "main": "app.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattkvls/portfolio_advanced_css.git"
+  },
+  "author": "Matt Kats",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mattkvls/portfolio_advanced_css/issues"
+  },
+  "homepage": "https://github.com/Mattkvls/portfolio_advanced_css#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
