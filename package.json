@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Mattkvls/portfolio_advanced_css#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
